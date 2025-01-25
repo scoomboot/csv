@@ -1,0 +1,3 @@
+/home/fisty/CLionProjects/csv/cmake-build-debug/CMakeFiles/csv.dir
+/home/fisty/CLionProjects/csv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fisty/CLionProjects/csv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
